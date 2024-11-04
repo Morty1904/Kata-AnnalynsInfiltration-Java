@@ -1,6 +1,6 @@
 package org.factoriaf5.infiltration;
 
-public class AnnalynsInfiltration {
+public class AnnalynsInfiltration{
 
     public static boolean canFastAttack(boolean knightIsAwake) {
         return !knightIsAwake;
